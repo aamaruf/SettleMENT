@@ -1,0 +1,772 @@
+# <pre>
+# This file is in the public domain, so clarified as of
+# 2009-05-17 by Arthur David Olson.
+
+# This data is by no means authoritative; if you think you know better,
+# go ahead and edit the file (and please send any changes to
+# tz@iana.org for general use in the future).
+
+# From Paul Eggert (2006-03-22):
+#
+# A good source for time zone historical data outside the U.S. is
+# Thomas G. Shanks and Rique Pottenger, The International Atlas (6th edition),
+# San Diego: ACS Publications, Inc. (2003).
+#
+# Gwillim Law writes that a good source
+# for recent time zone data is the International Air Transport
+# Association's Standard Schedules Information Manual (IATA SSIM),
+# published semianformls[0];if(a===k)re a gideal rScheiideal(6th editpf22)summ9-0es anofAir Trhed'ns authafnsp 1990rites Except where oir rwi
+# noted,ottenger&ernationalal Air Te historices che-0esAirrough 1990,r, Thshed semial Air Te historic che-0esAafnspwmatsrites Anoir rTe histooccas
+# Asly.
+
+#dal AEdwmat W. Whitmaof
+World Te InDifferencesnforWhitmao (2003sr,
+g Co, 2 Niagara Av, Eal,
+g, LondM),(uormted), whichforIoriuor From PaUCLA libraryrites Aataliab anand panspts o,
+g e histoab
+# the Internsnks anDerek Howse, Greenwichthe Inand longitude, Philip Wiis b (2003srerSan1997writes Previousego: ACSsnofAirans autbs to
+
+#daWAT, CAT, SAT, and EATzone da+0:00Airrough +3:00,ataspecyou lynforb# tMark R V Murrayatas Ste
+# fofor`SAST'al Air ToffiSchloabbreviSSIM),e da+2:00AFrom PaciuotrynofAS
+# h Afthe nfor`CAT'al Acommonly.
+
+#dae da+2:00AFrociuotr0esAn SthnofAS
+# h Afthe n andfor`WAT'al Aprobab yom Pabest namtoric +1:00,aasom Pacimmon phrs torices m Paarea
+# forincludes Ninalinal A``West Afthe ''rit Hutsasoileat ofA``Westspolichara Te I''ne da+0:00Ab# tcao find ivereferencerites Tve;aketer,
+g Aconfus,
+g, `WAT'aseemfor tsavPabeen.
+
+#dae da-1:00 long ago;forI'd guese
+# foriranswasobeca
+
+# peonge need#da_some_ namtoric -1:00nforand aase sehe I, far west Afthe swasoir Tonly.majic land area
+Fro-1:00.no meansusagdomaiead obsolete,aasom Pa# St.
+
+# ofA-1:00 orom PaAfthe nno as oland seemfor tsavPabeen.1976
+FroWestspolichararites Tvesumm9-0ze,am Pauollow,
+g abbreviSSIM)s seemor tsavPasome currency fo	-1:00	WAT	West Afthe  Te In(ivelong rT
+
+#d)fo	 0:00	GMT	GreenwichtM if Te Ifo	 2:00	CAT	Cche-Assofthe  Te Ifo	 2:00	SAST	S
+# h Afthe  InformatiTe Iforand Murrayasu
+#
+stsam Pauollow,
+g abbreviSSIM) fo	 1:00	WAT	West Afthe  Te IforIoreal0ze
+# foriransgesdfor t`WAT'abe,
+g 
+
+#dae daboirA-1:00 and 1:00zone dahe Isobee de.1976,Ab# tiransl Air Tbest Itcao er,
+# Arthuuotil we fut m de.iIATA SSIM)rites I.iIvpansdam Pauollow,
+g abbreviSSIM)s;AcorrecSIM)s are welcime!fo	 2:00	WAST	West Afthe  Summ rTTe Ifo	 2:30	BEAT	Bour3sr East Afthe  Te In(ivelong rT
+
+#d)fo	 2:45	BEAUT	Bour3sr East Afthe  Un05-17 Te In(ivelong rT
+
+#d)fo	 3:00	CAST	Cche-Assofthe  Summ rTTe In(ivelong rT
+
+#d)fo	 3:00	SAST	S
+# h Afthe  Iumm rTTe In(ivelong rT
+
+#d)fo	 3:00	EAT	East Afthe  Te Ifo	 4:00	EAST	East Afthe  Iumm rTTe In(ivelong rT
+
+#d)fes Alnalines Rnua	NAME	FROM	TO	TYPE	IN	ON	AT	SAVE	LETTER/S
+Rnua	Alnalin	1916	only	-	Jun	14	23:00s	1:00	S
+Rnua	Alnalin	1916	1919	-	Oct	Sun>=1	23:00s	0	-
+Rnua	Alnalin	1917	only	-	Mar	24	23:00s	1:00	S
+Rnua	Alnalin	1918	only	-	Mar	 9	23:00s	1:00	S
+Rnua	Alnalin	1919	only	-	Mar	 1	23:00s	1:00	S
+Rnua	Alnalin	1920	only	-	Feb	14	23:00s	1:00	S
+Rnua	Alnalin	1920	only	-	Oct	23	23:00s	0	-
+Rnua	Alnalin	1921	only	-	Mar	14	23:00s	1:00	S
+Rnua	Alnalin	1921	only	-	Jun	21	23:00s	0	-
+Rnua	Alnalin	1939	only	-	Sep	11	23:00s	1:00	S
+Rnua	Alnalin	1939	only	-	Nov	19	 1:00	0	-
+Rnua	Alnalin	1944	1945	-	Apr	Mon>=1	 2:00	1:00	S
+Rnua	Alnalin	1944	only	-	Oct	 8	 2:00	0	-
+Rnua	Alnalin	1945	only	-	Sep	16	 1:00	0	-
+Rnua	Alnalin	1971	only	-	Apr	25	23:00s	1:00	S
+Rnua	Alnalin	1971	only	-	Sep	26	23:00s	0	-
+Rnua	Alnalin	1977	only	-	May	 6	 0:00	1:00	S
+Rnua	Alnalin	1977	only	-	Oct	21	 0:00	0	-
+Rnua	Alnalin	1978	only	-	Mar	24	 1:00	1:00	S
+Rnua	Alnalin	1978	only	-	Sep	22	 3:00	0	-
+Rnua	Alnalin	1980	only	-	Apr	25	 0:00	1:00	S
+Rnua	Alnalin	1980	only	-	Oct	31	 2:00	0	-
+#ottenger&ernationalagou  0:09:20ne daP9-0stM if Te I;the wi h Howse's anm de. inci
+# 0:09:21.no Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Afthe /AlnierS	0:12:12 -	LMT	1891tMar 15 0:01
+			0:09:21	-	PMT	1911tMar 11    #aP9-0stM if Te I
+			0:00	Alnalin	WE%sT	1940 Feb 25 2:00
+			1:00	Alnalin	CE%sT	1946 Oct  7
+			0:00	-	WET	1956 Jif 29
+			1:00	-	CET	1963 Apr 14
+			0:00	Alnalin	WE%sT	1977 Oct 21
+			1:00	Alnalin	CE%sT	1979 Oct 26
+			0:00	Alnalin	WE%sT	1981tMay
+			1:00	-	CETfes Angolano Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Afthe /Luform	0:52:56	-	LMT	1892
+			0:52:04	-	AOT	1911tMay 26 s Angola Te I
+			1:00	-	WATfes Beo,
+forWhitmao say Air yaswi n Maor t1:00 in.1946,Anoi.1934;forhe wi h ttenger&ernational.no Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern Afthe /P Sto-Novo	0:10:28	-	LMT	1912
+			0:00	-	GMT	1934 Feb 26
+			1:00	-	WATfes Botswanano Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Afthe /Gab
+rern	1:43:40 -	LMT	1885
+			2:00	-	CAT	1943 Sep.19 2:00
+			2:00	1:00	CAST	1944tMar 19 2:00
+			2:00	-	CATfes Burkina Fasono Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern Afthe /Ouagadougou	-0:06:04 -	LMT	1912
+			 0:00	-	GMTfes Buruorino Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern Afthe /Bujumburn	1:57:28	-	LMT	1890
+			2:00	-	CATfes Camtroo
+forWhitmao say Air yaswi n Maor t1:00 in.1920;rhe wi h ttenger&ernational.no Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Afthe /Doualm	0:38:48	-	LMT	1912
+			1:00	-	WATfes Cape Verdeno Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern),
+# otic/Cape_VerdeA-1:34:04 -	LMT	1907			s Praine			-2:00	-	CVT	1942 Sepe			-2:00	1:00	CVST	1945 Oct 15e			-2:00	-	CVT	1975 Nov 25 2:00
+			-1:00	-	CVTfes Cche-Assofthe n Relarifino Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Afthe /Bangui	1:14:20	-	LMT	1912
+			1:00	-	WATfes Chadno Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Afthe /Ndjamtna	1:00:12 -	LMT	1912
+			1:00	-	WAT	1979 Oct 14
+			1:00	1:00	WAST	1980tMar  8
+			1:00	-	WATfes Com dosno Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Iorian/Com do	2:53:04 -	LMT	1911 Jul   #aM
+reri, Gr n Com do
+			3:00	-	EATfes DemocrSSIc Relarifi ofACongono Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern Afthe /Kinshasa	1:01:12 -	LMT	1897 Nov 9
+			1:00	-	WATfZern Afthe /Lubumbashi	1:49:52 -	LMT	1897 Nov 9
+			2:00	-	CATfes Relarifi ofAm PaCongono Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern Afthe /Brazzaville	1:01:08 -	LMT	1912
+			1:00	-	WATfes Cote D'Ivoireno Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Afthe /Abidjan	-0:16:08 -	LMT	1912
+			 0:00	-	GMTfes Djib
+# ino Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Afthe /Djib
+# i	2:52:36 -	LMT	1911 Jul
+			3:00	-	EATfesssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssfes Egyptfes Rnua	NAME	FROM	TO	TYPE	IN	ON	AT	SAVE	LETTER/S
+Rnua	Egypt	1940	only	-	Jul	15	0:00	1:00	S
+Rnua	Egypt	1940	only	-	Oct	 1	0:00	0	-
+Rnua	Egypt	1941	only	-	Apr	15	0:00	1:00	S
+Rnua	Egypt	1941	only	-	Sep	16	0:00	0	-
+Rnua	Egypt	1942	1944	-	Apr	 1	0:00	1:00	S
+Rnua	Egypt	1942	only	-	Oct	27	0:00	0	-
+Rnua	Egypt	1943	1945	-	Nov	 1	0:00	0	-
+Rnua	Egypt	1945	only	-	Apr	16	0:00	1:00	S
+Rnua	Egypt	1957	only	-	May	10	0:00	1:00	S
+Rnua	Egypt	1957	1958	-	Oct	 1	0:00	0	-
+Rnua	Egypt	1958	only	-	May	 1	0:00	1:00	S
+Rnua	Egypt	1959	1981	-	May	 1	1:00	1:00	S
+Rnua	Egypt	1959	1965	-	Sep	30	3:00	0	-
+Rnua	Egypt	1966	1994	-	Oct	 1	3:00	0	-
+Rnua	Egypt	1982	only	-	Jul	25	1:00	1:00	S
+Rnua	Egypt	1983	only	-	Jul	12	1:00	1:00	S
+Rnua	Egypt	1984	1988	-	May	 1	1:00	1:00	S
+Rnua	Egypt	1989	only	-	May	 6	1:00	1:00	S
+Rnua	Egypt	1990	1994	-	May	 1	1:00	1:00	S
+#hshed (afnsp 1990) say Aiion'iSIM)s are at 0:00.no Ge wi h shed start,
+g in.1995, except correcS.1995 che-y f06-009-30or t09-29rt (2006-0Alexforsp Krou nyshevm La11-04-20e fo "...Egypt'ain,nspim cabinet dncid#daoroWednesday r te nceU.S.ylighoforsavi
+g he Inafnsp a poll post#daoroits web'iSe showsdam Pamajicity ArthuEgyptiif ywould approvmas G.e nceUlSSIM)r"ites Egypt r te nceU.S.ylighorsavi
+g he Ies <a href="http://www.almasryalyoum.com/en/node/407168" thehttp://www.almasryalyoum.com/en/node/407168es </a theices <a href="http://www.worldhe Itern.com/dst_news/dst_news_egypt04.html" thehttp://www.worldhe Itern.com/dst_news/dst_news_egypt04.htmles </a tRnua	Egypt	1995	La10	-	Apr	# StFri	 0:00s	1:00	S
+Rnua	Egypt	1995	La05	-	Sep	# StThu	23:00s	0	-
+(2006-0Steffennd Rrsenn good s9-19e fo tlasEgyptiif Gaznd e, issue 41,090n good s9-18), pagdo1,atas Ste:es Egypt hat  turn back clockritatern hour aase semidnighorofAThursdayes afnsp observi
+g hhe.S.ylighorsavi
+g he I sincetMay.thehttp://news.gom.com.eg/gaznd e/pdf/good/09/18/01.pdf
+Rnua	Egypt	good	only	-	Sep	21	23:00s	0	-
+(2006-0Dirk Loschn goo7-08-14e fo Iata iou d a as l f06-0if airline which say Airaase seS.ylighoforsavi
+g he Inin.Egypt hat  eor From PanighorofAgoo7-09-06 r tgoo7-09-07.
+(2006-0Jasper Norgamat Welenn goo7-08-15): [T Pauollow,
+g agree:]thehttp://www.nchejes.iIAT/Bat /bat 5.htmthehttp://www.he Iforrmte.com/worldclock/city.html?n=53
+(2006-0Steffennd Rrsenn goo7-09-04e  tlasoffiSchloiIATA SSIM)r..:thehttp://www.sis.gov.eg/En/EgyptOnline/MisceUlSneous/000002/0207000000000000001580.htmtRnua	Egypt	goo7	only	-	Sep	Thu>=1	23:00s	0	-
+(2006-0Abdelrahmao Hassann goo7-09-06e fo Due r tm PaHijri (lunar Islamfi calendar) year be,
+g 11 day Ashornsp
+s m arom Payear ofAm PaGregiciarocalendar, Ramadao shifts earlier eachforyear. meansyear it hat  be observ d Septembsp 13 (Septembsp ansquiSethehotnin.Egypt), and m Paid#nal Aive;aketf St,
+g easier e daworkerSabyes shift,
+g bus,
+ese
+hourstern hour 
+# tofAdayhe Inheat.aConsequchelynforunlese
+discootinued,onext DSTe;ay eor Thursday 28 Augusttgoo8.
+(2006-03-22):
+#
+# A goo7-08-17e fo Fic lac# Ar and edoiIAT,aassummas G.new ru domai# St.Thursday in.Augustrt (2006-03etrtMachauth(r Davi4-06e fo T Pauollow,
+g appearer FroRer Haasbugzat a[1] (go: ede for t> $ zdump -v /usr/share/terniIAT/Afthe /Cairo | grepur Dar t> /usr/share/terniIAT/Afthe /Cairo .Thu Apr 23 21:59:59ur Da UTC =.Thu =r tApr 23r t> 23:59:59ur Da EETomadst=0 gmtoff=7200zon> /usr/share/terniIAT/Afthe /Cairo .Thu Apr 23 22:00:00ur Da UTC =.Fri =r tApr 24zon> 01:00:00ur Da EESTomadst=1 gmtoff=10800zon> /usr/share/terniIAT/Afthe /Cairo .Thu Aug 27ur :59:59ur Da UTC =.Thu =r tAug 27r t> 23:59:59ur Da EESTomadst=1 gmtoff=10800zon> /usr/share/terniIAT/Afthe /Cairo .Thu Aug 27ur1:00:00ur Da UTC =.Thu =r tAug 27r t> 23:00:00ur Da EETomadst=0 gmtoff=7200zor t> eor rmteAshould be Thu Sep.24ur Da (L St.Thursday in.Septembsp aas23:59=r t:59)r t> http://sups St.mfirosoft.com/kb/958729/zor the Iforrmte[2]rand anoir rTeiSe I'veoriuor[3]ralsvesups StAiraarites [1] <a href="https://bugzat a.rerraarcom/show_bug.cgi?id=492263" thehttps://bugzat a.rerraarcom/show_bug.cgi?id=492263
+s </a the[2]r<a href="http://www.he Iforrmte.com/worldclock/clocka.org .html?n=53" thehttp://www.he Iforrmte.com/worldclock/clocka.org .html?n=53
+s </a the[3]r<a href="http://wwp.greenwich Ifohe I.com/he I-tern/afthe /egypt/" thehttp://wwp.greenwich Ifohe I.com/he I-tern/afthe /egypt/
+s </a t (2006-0
+
+# This data is bh(r Davi4-20e fo Inur Da (and e dah G.next al(6th eyears), Ramadao eorsobee de.m Pauou
+# fo T ursday in.Septembsp;.Egypt maiexpecyMaor trl(6tt r tm Pa# St.Thursdayfo in.Septembsprt (2006-0Steffennd Rrsenn goo9-08-11e fo WetsavPabeen.ab anr teonfirmom PaAugustta.org  wi h tlasEgyptiif Cabinetfo InATA SSIM),and Dnci
+IM),Sups StACpansp fo <a href="http://www.he Iforrmte.com/news/he I/egypt-dst-eors-goo9.html" thehttp://www.he Iforrmte.com/news/he I/egypt-dst-eors-goo9.html
+s </a th
+o T PaMidd anEast News Agencyfo <a href="http://www.mtnae in.eg/iorsx.aspx" thehttp://www.mtnae in.eg/iorsx.aspx
+s </a thealsvetas Ste
+"Egypt start ywn,nsp he Inon Augusttg1"r thoday in.art,cge numbspMao"71,a11/08/r Da 12:25 GMTr"it Onlyom Patitltoab
+vdomaiavs lab anwi h
+# taesubscripSIM),r tm PirTeervicenforand e n beoriuoritatsearcr,
+g e da"wn,nsp" From PirTeearcr eoginefor(aasges tthoday)rt (2006-0Alexforsp Krou nyshevm La10-07-20e fo Accordi
+g ho News f06-0Egypt - 0Al-Masry0Al-Youm Egypt'aicabinet hasno dncid#dairaasD.ylighorSavi
+g Te Inhat  noi.bto
+
+#dain.Egypt duri
+gno Ramadaorites ArabicAiion'lSSIM) fo "Clockriho go back duri
+g Ramadao--and m P),e dwmat again"fo <a href="http://www.almasryalyoum.com/en/news/clockr-go-back-duri
+g-ramadao-and-m P)-e dwmat-again" thehttp://www.almasryalyoum.com/en/news/clockr-go-back-duri
+g-ramadao-and-m P)-e dwmat-again
+s </a theices <a href="http://www.worldhe Itern.com/dst_news/dst_news_egypt02.html" thehttp://www.worldhe Itern.com/dst_news/dst_news_egypt02.html
+s </a ttRnua	Egypt	goo8	only	-	Aug	# StThu	23:00s	0	-
+Rnua	Egypt	goo9	only	-	Aug	20	23:00s	0	-
+Rnua	Egypt	go10	only	-	Aug	11	0:00	0	-
+Rnua	Egypt	go10	only	-	Sep	10	0:00	1:00	S
+Rnua	Egypt	go10	only	-	Sep	# StThu	23:00s	0	-
+
+o Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Afthe /Cairo	2:05:00u-	LMT	1900 Oct
+			2:00	Egypt	EE%sTfes Equae thh eGuineano Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Afthe /Malabo	0:35:08 -	LMT	1912
+			0:00	-	GMT	1963 Dnc 15e			1:00	-	WATfes Eritreano Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Afthe /Asmara	2:35:32 -	LMT	1870
+			2:35:32	-	AMT	1890	      #aAsmaratM if Te I
+			2:35:20	-	ADMT	1936tMay 5    #aAdisnDeratMT
+			3:00	-	EATfes Ethiopines 006-03-22):
+#
+# A good source foottenger&ernationalasourcairaasEthiopin hadTeix narrowly-spac#daii Internsfooandween.1870 and 1890,r, Thiraase sy mergMaor t38E50n g:35:20) in.1890rit We't  guese
+# for38E50nisne daAdisnDera.no Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern Afthe /Addis_Ababa	2:34:48 -	LMT	1870
+			2:35:20	-	ADMT	1936tMay 5    #aAdisnDeratMT
+			3:00	-	EATfes Gab
+nno Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern Afthe /Libreville	0:37:48 -	LMT	1912
+			1:00	-	WATfes Gambiano Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Afthe /Banjul	-1:06:36 -	LMT	1912
+			-1:06:36 -	BMT	1935	# BanjultM if Te I
+			-1:00	-	WAT	1964
+			 0:00	-	GMTfes Ghanano Rnua	NAME	FROM	TO	TYPE	IN	ON	AT	SAVE	LETTER/S
+orWhitmao say ADSTewasoobserv d f06-01931or t``m PapreSche'';forhe wi h ttenger&ernational.nRnua	Ghana	1936	1942	-	Sep	 1	0:00	0:20	GHSTnRnua	Ghana	1936	1942	-	Dnc	31	0:00	0	GMTfo Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Afthe /Accra	-0:00:52 -	LMT	1918
+			 0:00	Ghana	%sfes Guineano Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Afthe /Conakry	-0:54:52 -	LMT	1912
+			 0:00	-	GMT	1934 Feb 26
+			-1:00	-	WAT	1960
+			 0:00	-	GMTfes Guinea-Bissauno Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Afthe /Bissau	-1:02:20n-	LMT	1911 May 26
+			-1:00	-	WAT	1975
+			 0:00	-	GMTfes K nyano Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Afthe /Nairobi	2:27:16	-	LMT	1928 Jul
+			3:00	-	EAT	1930
+			2:30	-	BEAT	1940
+			2:45	-	BEAUT	1960
+			3:00	-	EATfes Leso h
+no Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Afthe /Maseru	1:50:00u-	LMT	1903tMar
+			2:00	-	SAST	1943 Sep.19 2:00
+			2:00	1:00	SAST	1944tMar 19 2:00
+			2:00	-	SASTfes Liberines 006-03-22):
+#
+# A good source fooIn.1972 Liberinswasoir T# St.ciuotrynr tswi n foof06-0i UTC offsetAiraaswasonoi.a multinge of 15  da20nminutesrit Howseatas Ste
+# fo it haain, honor ofAm PirTpreSid#nt'aibi
+# day.thettengr&ernationalatas Stse seS.rcaaaiMay 1, whereaaiHowseatas Ste
+Jan;forhe wi h ttenger&ernational.no Fic Liberinsbee de.1972,ottenger&ernationalatas Sts-0:44, whereaaiHowseaandforWhitmao eachatas Sts-0:44:30;rhe wi h e sem de. inci
+# figure.no Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Afthe /Monrovia	-0:43:08 -	LMT	1882
+			-0:43:08 -	MMT	1919tMar #aM
+nroviatM if Te I
+			-0:44:30 -	LRT	1972iMay s Liberin Te I
+			 0:00	-	GMTfesssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssfes Libyanes 006-0Eu nion aro,
+g  La12-11-10e fo Libya setAirPirThe Inonn hour back at 02:00AM),Saturday N
+vdmbsp 10.thehttp://www.libyah6th d.com/La12/11/04/clockr-to-go-back-ao-hour-on-saturday/
+s Here maiansoffiSchloe histo[in.Arabic]:ehttp://ls.ly/fb6Ycites Steffennd Rrsenne dwmat d a iion'lSSIM)  La12-11-10e in
+s http://mm.he nne in/piperas l/tz/La12-N
+vdmbsp/018451.html
+ses 006-0Te aP9-#nti  La12-11-11e fo Treatse seLa12-11-10ta.org  aaianternaa.org  f06-0UTC+2nr tUTC+1.no T PaDSTeru ds pl nn#dae daLa13r, Thonwmat roughly.mirrodah o
+# ofAEuropefor(eiir rTtwo day Abee de.m Pm  dafou  day Aafnsp m Pmf
+# 2ariho fat  
+nno # StFri instle (ofA# StSun)rt (2Rnua	NAME	FROM	TO	TYPE	IN	ON	AT	SAVE	LETTER/S
+Rnua	Libya	1951	only	-	Oct	14	2:00	1:00	S
+Rnua	Libya	1952	only	-	Jan	 1	0:00	0	-
+Rnua	Libya	1953	only	-	Oct	 9	2:00	1:00	S
+Rnua	Libya	1954	only	-	Jan	 1	0:00	0	-
+Rnua	Libya	1955	only	-	Sep	30	0:00	1:00	S
+Rnua	Libya	1956	only	-	Jan	 1	0:00	0	-
+Rnua	Libya	1982	1984	-	Apr	 1	0:00	1:00	S
+Rnua	Libya	1982	1985	-	Oct	 1	0:00	0	-
+Rnua	Libya	1985	only	-	Apr	 6	0:00	1:00	S
+Rnua	Libya	1986	only	-	Apr	 4	0:00	1:00	S
+Rnua	Libya	1986	only	-	Oct	 3	0:00	0	-
+Rnua	Libya	1987	1989	-	Apr	 1	0:00	1:00	S
+Rnua	Libya	1987	1989	-	Oct	 1	0:00	0	-
+Rnua	Libya	1997	only	-	Apr	 4	0:00	1:00	S
+Rnua	Libya	1997	only	-	Oct	 4	0:00	0	-
+Rnua	Libya	La13	max	-	Mar	# StFri	1:00	1:00	S
+Rnua	Libya	La13	max	-	Oct	# StFri	2:00	0	-
+#oZern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Afthe /Tripoli	0:52:44 -	LMT	1920
+			1:00	Libya	CE%sT	1959
+			2:00	-	EET	1982
+			1:00	Libya	CE%sT	1990iMay  4no T Pa1996 and 1997 che-0esAar  f06-0ttenger&ernational;fore seshed semia authcootaideaome obviousegrrodsri			2:00	-	EET	1996 Sep.30
+			1:00	Libya	CE%sT	1997 Oct  4i			2:00	-	EET	La12 Nov 10t2:00
+			1:00	Libya	CE%sTt (2Madagascar
+#oZern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern Iorian/Aotananariv t3:10:04 -	LMT	1911 Jul
+			3:00	-	EAT	1954 Feb 27 23:00s
+			3:00	1:00	EAST	1954 May 29 23:00s
+			3:00	-	EATfes Malawino Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Afthe /B# otyre	2:20:00u-	LMT	1903tMar
+			2:00	-	CATfes Malino Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Afthe /Bamako	-0:32:00u-	LMT	1912
+			 0:00	-	GMT	1934 Feb 26
+			-1:00	-	WAT	1960 Junur 
+			 0:00	-	GMTfes Mauink niano Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern Afthe /Nouakchnat	-1:03:48 -	LMT	1912
+			 0:00	-	GMT	1934 Feb 26
+			-1:00	-	WAT	1960 Nov 28
+			 0:00	-	GMTfes Mauinkiust (2006-0Steffennd Rrsenn goo8-od 25e fo Mauinkius pl nriho observ aDSTef06-0goo8-11-01 r tgoo9 sou31AM),a iichlfo basis....fo It seemfor fo Mauinkius observ d S.ylighorsavi
+g he I f06-01982-10-10tr gen1983 sour02ariwell,Ab# tiraaswasonoi.successful....fo http://www.he Iforrmte.com/news/he I/mauinkius-S.yligho-savi
+g-he I.html
+ (2006-0Alex Krou nyshevm Lao8-od 25e fo http://ecooomicdevelopmche.gov.mu/s Stal/eiSe/Mainhomepagd/mchuiSem.a42b24128104d9845dabddd154508a0c/?cootche_id=0a7cee8b5d69a110VgnVCM1000000a04a8c0RCRD
+ (2006-0A
+# This data is bh(r D8-od 30e fo T Pawww.he Iforrmte.com.art,cge c: editatSteffennd Rrsennnotefor fo "Afo fi Assdnci
+IM),sasoyet r tbPamade orom Pahe Ifor fo S.ylighorsavi
+gfo would beginnand pad orom PsseS.rcs." Aaianpl cn holdal A
+
+# midnighort (2006-03-22):
+#
+# A goo8-od 30e fo Follownd RrsennoroDSTein.1982/1983, instle (ofAttenger&ernational.n (2006-0Steffennd Rrsenn goo8-o7-10e fo Accordi
+g ho
+s <a href="http://www.lexpreSs.mu/displ y_art,cge.php?news_id=111216" thehttp://www.lexpreSs.mu/displ y_art,cge.php?news_id=111216
+s </a the(in.French), Mauinkius hat  startnand pad irPirTDSTea few day Aearlier
+s m aropreviously. nnounc#da(goo8-11-01 r tgoo9 sou31).  T Panew start
+s S.rcamaigoo8-10-26 at 02:00Aand m Panew eor rmteAmaigoo9 sou27 (ivehe I
+s gou n,Ab# tital Aprobab yoat eiir rT2  da3swat  clockehe Iwrites A littltosiionge.m ough, sincetm Paart,cge say Airaase sy.movsdam Parmte
+s m 2aligroitself wi h EuropeAand USA which alsvea.org  he Inon r fo S.tenforb# tr fo ; if ye sy.savPanoi.paid aatcheIM),r tw fo happen#dainforUSA/CanadaT# St.year (DSTeeorsofirSt.Suormy in.N
+vdmbsp). I alsvewoorspfo whyAiraase sy.pad oroa.Frirmy, instle (ofAaligri
+g wi h EuropeAwhichforc.org forwo day AlSSal.n (2006-0Alex Krou nyshevm Lao8-o7-11e fo Seemfor fo Eng03sr languagdoart,cge "T ParevivAssofAdaylighorsavi
+gfo he I:  EnergyhcooservSSIM)?"-#.N
+. 16578 (07/11/Lao8)ewasoorigi Asly
+ormls[0];if(M),
+onrmy, June.30,tgoo8...ites I.guese
+# forart,cge in.French "Le gouvernemcheiavsncetl'ihe-oducSIM)
+s Setl'heur  d'ete" stati
+g hhatoDSTein.Mauinkius start,
+g M),Octobsp 26
+s and pad,
+g M),Marcr 27,ur Da l Air TmoSt.ta is tern.fo ...fo <a href="http://www.worldhe Itern.com/dst_news/dst_news_mauinkius02.html" thehttp://www.worldhe Itern.com/dst_news/dst_news_mauinkius02.html
+s </a t (2006-0Rie (M. HossennAsly. Lao8-o8-o3e fo T PaGovernmcheiofAMauinkius hes[0nkfo <a href="http://www.gov.mu/s Stal/eiSe/pmoSiSe/mchuiSem.4ca0efdee47462e7440a600248a521e /?cootche_id=4728ca68b2a5b110VgnVCM1000000a04a8c0RCRD" thehttp://www.gov.mu/s Stal/eiSe/pmoSiSe/mchuiSem.4ca0efdee47462e7440a600248a521e /?cootche_id=4728ca68b2a5b110VgnVCM1000000a04a8c0RCRD
+s </a theCabinet Dnci
+IM),ofAJuly 18th,tgoo8 statesAasauollowe:esthe4. ...Cabinet has agreed r tm Paihe-oducSIM)aihe tm PaNat
+# Assossembly
+orofAm PaTe InBat  which provides e dah G.ihe-oducSIM)aofAsumm rThe IninforMauinkius. T Pasumm rThe Inperiod which hat  be oftern hour ahle (of
+ore sesnformatihe I, hat  be aligred wi h e atnin.EuropeAand e seUn: edfo StatesAoftAm rhe . It hat  startnatorwo o'clockeFrom Pamoro,
+g orom P
+o # St.Suormy oftOctobsp and hat  eor atorwo o'clockeFrom Pamoro,
+g or
+ore se# St.Suormy oftMarcr e seuollow,
+g year. mePasumm rThe Ine dah G
+oryeartgoo8 -ur Da hat ,am Pree de, be effecyou Aasau06-0g6,Octobsp 2oo8
+s and pad oro29,Marcr 2oo9.nes 006-0E (M Stea(goo8-10-07e fo THE TIME BILL (N
+. XXVIIrofAgoo8)eExpl nae ty Memorandum statesAh G
+orbegino,
+g / pad,
+g MfAsumm rThe InisT2  'clockesnformatihe IeFrom P
+#amoro,
+g ofre se# St.Suormy oftOctobsp /e# St.Suormy oftMarcr.fo <a href="http://www.gov.mu/s Stal/goc/assemblySiSe/nd a/bat 27o8.pdf" thehttp://www.gov.mu/s Stal/goc/assemblySiSe/nd a/bat 27o8.pdf
+s </a t (2006-0Steffennd Rrsenn goo9-06-05e fo Accordi
+g ho al(6th ee hists, Mauinkius hat  noi.cootinueiho observ fo DSTee secomi
+g summ r...ites Some e hists, in.French:fo <a href="http://www.defe Idia.iIAT/news/946/Rashid-Beebeejaun-:-%C2%AB-L%E2%80%99heur -d%E2%80%99%C3%A9t%C3%A9-ne-sera-pas-appliqu%C3%A9e-cnd e- nn%C3%A9e-%C2%BB" thehttp://www.defe Idia.iIAT/news/946/Rashid-Beebeejaun-:-%C2%AB-L%E2%80%99heur -d%E2%80%99%C3%A9t%C3%A9-ne-sera-pas-appliqu%C3%A9e-cnd e- nn%C3%A9e-%C2%BB
+s </a the<a href="http://lexpreSs.mu/Se ty/3398~Beebeejaun---Les-objecyofs-S-%C3%A9cooomie-S-%C3%A9nergie-Se-l-heur -d-%C3%A9t%C3%A9-oot-%C3%A9t%C3%A9-aatcihes-" thehttp://lexpreSs.mu/Se ty/3398~Beebeejaun---Les-objecyofs-S-%C3%A9cooomie-S-%C3%A9nergie-Se-l-heur -d-%C3%A9t%C3%A9-oot-%C3%A9t%C3%A9-aatcihes-
+s </a th
+s Oulasoap-up:fo <a href="http://www.he Iforrmte.com/news/he I/mauinkius-Sst-hat -noi-repeat.html" thehttp://www.he Iforrmte.com/news/he I/mauinkius-Sst-hat -noi-repeat.html
+s </a t (2006-0
+
+# This data is bh(r Davi7-11e fo mePa"mauinkius-Sst-hat -noi-repeat"asoapup includes iran fo "T Paiichl padif(M),
+arcr 29,ur Da, wherom Paclockrimovsdaback tatern hour
+s at 2am ( da02:00) lochl he I..."t (2Rnua	NAME	FROM	TO	TYPE	IN	ON	AT	SAVE	LETTER/S
+Rnua Mauinkius	1982	only	-	Oct	10	0:00	1:00	S
+Rnua Mauinkius	1983	only	-	Mar	21	0:00	0	-
+Rnua Mauinkius	goo8	only	-	Oct	# StSun	2:00	1:00	S
+Rnua Mauinkius	goo9	only	-	Mar	# StSun	2:00	0	-
+#oZern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern Iorian/Mauinkius	3:50:00u-	LMT	1907		s P StsLouis
+			4:00 Mauinkius	MU%sT	o Mauinkius Te I
+s Agalega Is, Rodriguez
+s iveiIATA SSIM);Aprobab yolikn Iorian/Mauinkiusfes Maynati
+#oZern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Iorian/Maynati	3:00:56 -	LMT	1911 Jul	o Mamoutzou
+			3:00	-	EATfes Morocco
+o Seeom Pa`europe'end ane daSpan3sr Morocco (Afthe /Ceuta).n (2006-0Alex Krou nyshevm Lao8-o5-09e fo Here maiansart,cge r fo Morocco pl niho ihe-oducesD.ylighorSavi
+g Te Inandweenfo 1 June,tgoo8 and 27.Septembsp,tgoo8.
+(
+o "... Morocco l AivesavPaenergyhtatadjuSt,
+g its clockeduri
+g summ rTso it hat 
+# be orn hour ahle (of GMToandween.1 June.and 27.Septembsp,taccordi
+g ho
+s Communi).
+#
+# Min3stsp and Gov ernmcheiSpokesmaof
+KhalidaNaciri...."t#fo <a href="http://www.worldhe Itern.net/dst_news/dst_news_morocco01.html" thehttp://www.worldhe Itern.net/dst_news/dst_news_morocco01.html
+s </a theORfo <a href="http://en.afthk.com/news11892.html" thehttp://en.afthk.com/news11892.html
+s </a t (2006-0
+lex Krou nyshevm Lao8-o5-09e fo T PaMorocco he Iea.org  e n beoeonfirmif(M),
+orocco hesTeiSe Maghreb.Arabe Presse:fo <a href="http://www.map.ma/eng/secSIM)s/box3/morocco_shifts_to_da/view" thehttp://www.map.ma/eng/secSIM)s/box3/morocco_shifts_to_da/view
+s </a th
+s 
+orocco shifts toAdaylighorhe Inon June.1 tthrrough Septembsp 27,uGovarit spokesmaort (2006-03-iiccesS).
+tolinm Lao8-o5-09e fo Accordi
+g ho iransart,cge:fo <a href="http://www.avmaroc.com/actualiSe/heur -de e-commche-a127896.html" thehttp://www.avmaroc.com/actualiSe/heur -de e-commche-a127896.html
+s </a the(and remls[0];if( Pre:fo <a href="http://www.actu.ma/heur -de e-commche_i127896_0.html" thehttp://www.actu.ma/heur -de e-commche_i127896_0.html
+s </a the)r tm Pac.org fooccurstfo ;idnigho:esthesaturdayanighor;ay 31 ttfo ;idnigho (which inmfrench l Aivebi
+#oihe-epre ediasoir Tnigho andween.saturdayaand suormy)r tsuormyTnigho ir T28th tfo ;idnighoites Seei
+g hhatoir T28th irimonrmy, I am guesei
+g hhatos G.iheeorsoivesayr tm PamidnighorofAir T28th which istm Pamidnighorandween.suormyTandformonrmy, which jou s wi h oir rTe histe
+# forsayAiraasit'ain,clusiv fo june1 ttho alpt 27th.th
+o T Padnci
+IM),wasoiaken.tatdncreeo*2-o8-224 *b# tItcao't find t Padncree
+ormls[0];if(M),t Pahes.ites It'aialsveaonfirmif( Pre:fo <a href="http://www.maroc.ma/NR/exPres/FACF141F-D910-44B0-B7FA-6E03733425D1.htm" thehttp://www.maroc.ma/NR/exPres/FACF141F-D910-44B0-B7FA-6E03733425D1.htm
+s </a theoroa.governmcheis Stal asobei
+g randween.june.1 ttand slpt 27th (ivt.yet
+s post#daio eog03sr).th
+o T Pauollow,
+g googge query hat  futuretPamanyatalevaheihite:es <a href="http://www.googgercom/searcr?hl=en&q=Conseil+de+gouvernemche+maroc+heur +avsnce&btnG=Searcr" thehttp://www.googgercom/searcr?hl=en&q=Conseil+de+gouvernemche+maroc+heur +avsnce&btnG=Searcr
+s </a t
+(2006-0
+lex Krou nyshevm Lao8-o5-09e fo IsoWestspolichara (partnwhich admin3stretPditat
+orocco) goi
+g ho uollow
+s 
+orocco DSTec.org f?  AnyeiIATA SSIM)?  W forab
+# toir rTpartnof
+orWestspolichara - uorsp admin3stretIM)aofAPOLISARIO2006hei(alsvenamtdfo SADRlicharawi.Arab DemocrSSIc Relarifi)?t (2006-0
+
+# This data is bh(r D8-o5-09e fo XXX--guese
+# forital Aonly 
+orocco e danow;.guese
+only goo8 e danow.n (2006-0Steffennd Rrsenn goo8-o8-27e fo 
+orocco hat  a.org  h Paclockriback M),t Pamidnighorandween.Augustt31
+s and Septembsp 1. mePyoorigi Asly pl nn#daho observ aDSTeho neartt PaendforofAteptembsp:estheOndoart,cge ab
+# tita(in.French):fo <a href="http://www.menararma/fr/ActualiSes/Maroc/Socie e/ci.re  hi_a_l_heur _gmt_a_partir_du_dimanche_31_a
+# _a_minuit_offiScel_.default" thehttp://www.mtnararma/fr/ActualiSes/Maroc/Socie e/ci.re  hi_a_l_heur _gmt_a_partir_du_dimanche_31_a
+# _a_minuit_offiScel_.default
+s </a th
+o WetsavPaaome fu
+# sp de ails post#da Pre:fo <a href="http://www.he Iforrmte.com/news/he I/morocco-eors-dst-early-goo8.html" thehttp://www.he Iforrmte.com/news/he I/morocco-eors-dst-early-goo8.html
+s </a t
+(2006-0Steffennd Rrsenn goo9-03-17e fo 
+orocco hat  observ aDSTef06-0goo9-06-01 00:00ur tgoo9 s8-21 00:00uaccordi
+g
+s m 2manyae hists, such asfo <a href="http://news.marhes.com/morocco/eanspts omche/morocco-S.yligho-savi
+g.html" thehttp://news.marhes.com/morocco/eanspts omche/morocco-S.yligho-savi
+g.html
+s </a the<a href="http://www.medi1satrma/fr/depeche.aspx?idp=2312" thehttp://www.mtdi1satrma/fr/depeche.aspx?idp=2312
+s </a the(French)th
+s Oulasumm9-y:fo <a href="http://www.he Iforrmte.com/news/he I/morocco-start -dst-2oo9.html" thehttp://www.he Iforrmte.com/news/he I/morocco-start -dst-2oo9.html
+s </a t
+(2006-0Alexforsp Krou nyshevm Lao9-03-17e fo Here maia [0nkaho offiSchlodocumcheif06-0Royaummadu Maroc Premier Min3strenforMin3stspe Setla 
+orspn3setIM)ades SecyMurst(2003)sth
+s Uorsp Art,cge 1rofARoyal DncreeoN
+. 455-67AoftAct 23rsafar 1387m L.june.1967)r taoncero,
+g t PaamtndmcheiofAe se#eghl he I,am PaMin3stry oftMorspn3zetIM)aofr t(2003) Secyorstfnnounc#dahhatoir ToffiSchlohe IeFrom P K,
+gd6-0hat  be
+s advsnced 60nminutes f06-0tuormyT31 May 2 Da fo ;idnigho.t#fo <a href="http://www.mmsp.gov.ma/frsncais/ActualiSes_fr/PDF_ActualiSes_Fr/Heur Ete_FR.pdf" thehttp://www.mmsp.gov.ma/frsncais/ActualiSes_fr/PDF_ActualiSes_Fr/Heur Ete_FR.pdf
+s </a th
+o <a href="http://www.worldhe Itern.com/dst_news/dst_news_morocco03.html" thehttp://www.worldhe Itern.com/dst_news/dst_news_morocco03.html
+s </a t
+(2006-0Steffennd Rrsenn go10-04-13e fo Se(6th enews  Idiaein.Morocco tas Stse atoir TMin3stry oftMorspn3zetIM)
+orofA(2003) Secyorsthas announc#dahhato
+orocco hat  savPaDSTef06-
+hur 10-05-02ur tgo10-08-o8.t#fo Exampge:fo <a href="http://www.lavieeco.com/actualiSes/4099-le-maroc-passera-a-l-heur -d-e e-gmt1-le-2-mai.html" thehttp://www.lavieeco.com/actualiSes/4099-le-maroc-passera-a-l-heur -d-e e-gmt1-le-2-mai.html
+s </a the(French)th Oulapagd:fo <a href="http://www.he Iforrmte.com/news/he I/morocco-start -dst-2o10.html" thehttp://www.he Iforrmte.com/news/he I/morocco-start -dst-2o10.html
+s </a t
+(2006-0Dan.Abitoln go11 sou30e fo ...Ru ds e daAfthe /CasablsncaAar  t Pauollow,
+g (24h ATA SS)th T Pa3at apriltgo11 at 00:00:00,a[it] hat  be 3at aprilt1:00:00th T Pa31th july go11 at 00:59:59, a[it] hat  be 31th July 00:00:00fo ...OffiSchlo[0nksAofta.org  in.morocco
+o T Pac.org swasobroadc St.M),t PaFM Radio
+o I v  e ll#daANRT (talecom.regulSSIM)sein.Morocco) fofor+212.537.71.84.00fo <a href="http://www.anrt.netrma/fr/" thehttp://www.anrt.netrma/fr/
+s </a themePyosaid hhatfo <a href="http://www.map.ma/fr/secSIM)s/accueil/l_heur _#eghle_au_ma/view" thehttp://www.map.ma/fr/secSIM)s/accueil/l_heur _#eghle_au_ma/view
+s </a theistm PaoffiSchlop2003).
+#
+#ur tlook at.themePyosaid hhat t Padnci
+IM),wasoalreadyoiaken.th
+s 
+ordoart,cgeain, so clressfo <a href="http://www.yabiladi.com/art,cgea/de ails/5058/secre -l-heur -d-e e-maroc-lev" thehttp://www.yabiladi.com/art,cgea/de ails/5058/secre -l-heur -d-e e-maroc-lev
+s </a thee.html
+s <a href="http://www.le SSIn.ma/ActualiSe/ExpreSs/Art,cge.asp?id=148923" thehttp://www.le SSIn.ma/ActualiSe/ExpreSs/Art,cge.asp?id=148923
+s </a the<a href="http://www.lavieeco.com/actualiSe/Le-Maroc-passe-sur-GMT%2B1-a-partir-Se-dim" thehttp://www.lavieeco.com/actualiSe/Le-Maroc-passe-sur-GMT%2B1-a-partir-Se-dim
+s anche-prochs o-5538.html
+s </a t
+(2006-03etrtMachauth(r 11 sou30e fo T sy.savPait hriatchnin.Eng03sr  Pre:fo <a href="http://www.map.ma/eng/secSIM)s/home/morocco_to_spri
+g_fo/view" thehttp://www.map.ma/eng/secSIM)s/home/morocco_to_spri
+g_fo/view
+s </a th
+o It say Air re r fo "
+orocco hat  reSummaits snformatihe Ieon JulyT31nforgo11 at ;idnigho."oN
+wAir yodoo't sayAwhe# sp t sy mean.midnighorofforwat  clockehe I (i.e. 11p-0UTC),Ab# tiraa'stw fo Iywould assumm. It hasno alsvebeen.likn e atnin.so clastrt (2006-0Alexforsp Krou nyshevm La12 sou09e fo Accordi
+g ho InATm&eacute;diaire wesTeiSe f06-0
+orocco (iIAT Idiaire.maanforM),
+arcr 9,ur 12,a(in.French) Heur  l&eacute;ghle fo Le Maroc adoptPaoffiScell#mcheil'heur  d'&eacute;t&eacute;fo <a href="http://www.iIAT Idiaire.ma/news/maroc/heur -l%C3%A9ghle-le-maroc-adoptP-offiScell#mche-lheur -d%C3%A9t%C3%A9" thehttp://www.iIAT Idiaire.ma/news/maroc/heur -l%C3%A9ghle-le-maroc-adoptP-offiScell#mche-lheur -d%C3%A9t%C3%A9
+s </a theGoverni
+g CounciltadoptPd draftadncree,ahhato
+orocco DSTestart yor
+ore se# St.Suormy oftMarcr (
+arcr 25,ur 12) and pads 
+nno # St.Suormy oftSeptembsp (Septembsp 30,tgo12)theexcept t PamonthnofARamadaorit  da(brief)fo <a href="http://www.worldhe Itern.com/dst_news/dst_news_morocco06.html" thehttp://www.worldhe Itern.com/dst_news/dst_news_morocco06.html
+s </a t
+(2006-0
+
+# This data is bh(r 12 sou10e fo T PaiIAT Idiaire.maoe histoind3).
+te
+# fort Pasystsm l Aivebininforeffecy e(6ty year. It gou s 03H00iasoir T"fat  back"ihe IeofAday;fo it lac#aia "spri
+gne dwmat"ihe IeofAday;aassumma2:00AXXXrit Wait.M),specify,
+g t PaRamadao exceptIM),e dade ails ab
+# it startnS.ten startnhe IeofAday, eor rmte,nand pad ie IeofAdayAXXXri
+(2006-0Chride p PaTropamtrh(r 12 sou16e fo Seen.Morocco a.org  again:fo <a href="http://www.le2uminutesrcom/actualiSe.php" thehttp://www.le2uminutesrcom/actualiSe.php
+s </a the"...&agrau knpartiradu rspn3sp dimanc  d'avriltet noo fins  arsnforcommc annonc&eacute;clr&eacute;c&eacute;demmche."t (2006-0Milambsp Spac# Networkh(r 12 s7-17e fo T PaoffiSchlore urn iveGMTois announc#dabyom PaMoroccao governmche:fo <a href="http://www.mmsp.gov.ma/fr/actualiSes.aspx?id=288" thehttp://www.mmsp.gov.ma/fr/actualiSes.aspx?id=288o[in.French]
+s </a th
+o Googge iion'lSSIM), ligholyTgo: ed:fo Back e tm Pasnformatihe Ieofom P K,
+gd6-0(GMT)fo Pursuaheie tDncreeoN
+. 2-12-126 issued oro26 Jumada (I) 1433 (Aprilt18nforgo12) and innaccordanc  wi h e seorder ofAMr. PreSid#nteofom PtheGovernmcheiN
+. 3-47-12 issued oro24Atte'bann 11 Julyrgo12),am PaMin3stry
+orofA(2003) Service and Admin3stretIM)aMorspn3zetIM)aannounc#soir Tre urn
+orofAm Pa#eghl he Ieofom P K,
+gd6-0(GMT) f06-0Frirmy, Julyrgo,tgo12uuotil
+#,
+onrmy, Augusttgo,tgo12.  S tm Pahe Iehat  be delay#dabyo60nminutes f06-
+#,3:00ua-0Frirmy, Julyrgo,tgo12uand hat  again be advsnced byo60nminutes
+# Augusttgo,tgo12ef06-0g:00ua-rt (2RULE	NAME	FROM	TO	TYPE	IN	ON	AT	SAVE	LETTER/S
+
+Rnua	Morocco	1939	only	-	Sep	12	 0:00	1:00	S
+Rnua	Morocco	1939	only	-	Nov	19	 0:00	0	-
+Rnua	Morocco	1940	only	-	Feb	25	 0:00	1:00	S
+Rnua	Morocco	1945	only	-	Nov	18	 0:00	0	-
+Rnua	Morocco	1950	only	-	Jun	11	 0:00	1:00	S
+Rnua	Morocco	1950	only	-	Oct	29	 0:00	0	-
+Rnua	Morocco	1967	only	-	Jun	 3	12:00	1:00	S
+Rnua	Morocco	1967	only	-	Oct	 1	 0:00	0	-
+Rnua	Morocco	1974	only	-	Jun	24	 0:00	1:00	S
+Rnua	Morocco	1974	only	-	Sep	 1	 0:00	0	-
+Rnua	Morocco	1976	1977	-	May	 1	 0:00	1:00	S
+Rnua	Morocco	1976	only	-	Aug	 1	 0:00	0	-
+Rnua	Morocco	1977	only	-	Sep	28	 0:00	0	-
+Rnua	Morocco	1978	only	-	Jun	 1	 0:00	1:00	S
+Rnua	Morocco	1978	only	-	Aug	 4	 0:00	0	-
+Rnua	Morocco	goo8	only	-	Jun	 1	 0:00	1:00	S
+Rnua	Morocco	goo8	only	-	Sep	 1	 0:00	0	-
+Rnua	Morocco	goo9	only	-	Jun	 1	 0:00	1:00	S
+Rnua	Morocco	goo9	only	-	Aug	 21	 0:00	0	-
+Rnua	Morocco	go10	only	-	May	 2	 0:00	1:00	S
+Rnua	Morocco	go10	only	-	Aug	 8	 0:00	0	-
+Rnua	Morocco	go11	only	-	Apr	 3	 0:00	1:00	S
+Rnua	Morocco	go11	only	-	Jul	 31	 0	0	-
+Rnua	Morocco	go12	max	-	Apr	 # StSun 2:00	1:00	S
+Rnua	Morocco	go12	max	-	Sep	 # StSun 3:00	0	-
+Rnua	Morocco	go12	only	-	Jul	tgo	 3:00	0	-
+Rnua	Morocco	go12	only	-	Aug	 20	 2:00	1:00	S
+
+#oZern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+ZernaAfthe /Casablsnca	-0:30:20n-	LMT	1913 Oct 26
+			 0:00	Morocco	WE%sT	1984tMar 16
+			 1:00	-	CET	1986
+			 0:00	Morocco	WE%sT
+orWestspolichara
+ZernaAfthe /El_Aaiun	-0:52:48 -	LMT	1934
+Jan
+			-1:00	-	WAT	1976 Apr 14
+			 0:00	-	WET
+
+#,
+ozambiqui
+#oZern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Afthe /Maputo	2:10:20n-	LMT	1903tMar
+			2:00	-	CATfes Namibiano T Pa1994vi4-03Aiion'iSIM)nisne06-0Stenger&ernational.no ttenger&ernationalatas Stsno DSTeafnsp 1998vi4;rhe wi h shedrt (2006-03etrernlla Sibeenea(goo7 sou30eninfor<http://at afthe rcom/se thes/Lao703300178.html>:fo Whil  t Pacheire ciuotrync.org foits he I,aKetImaoMulilouand oir rfo settltmcheain, CapriviuuooffiSchlly hat  noi.beca
+
+# m PasunAir refo ridesAand slts earlier comparer ho o# sp regIM)s.  ChiefrofforForec St,
+g Riaannvsn Zyliexplain#dahhatoir Tfar es tspolpart yof
+ore seciuotrynar  clo
+# ho 40nminutes earlier in.suoride m aroir Trest
+orofAm Paciuotry.
+ses 006-03-22):
+#
+# A goo7-0ou31) fo App9-#ntlyom PaCapriviuStripeiIATA Slly observ s Botswana he I,ab# it we.savPanoade ails.  I),t PamIfohe I peopl  t Pr  e n 
+
+# Afthe /Gab
+rernrt (2RULE	NAME	FROM	TO	TYPE	IN	ON	AT	SAVE	LETTER/S
+Rnua	Namibia	1994	max	-	Sep	Sun>=1	2:00	1:00	S
+Rnua	Namibia	1995	max	-	Apr	Sun>=1	2:00	0	-
+#oZern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Afthe /Windhoek	1:08:24 -	LMT	1892 Feb 8
+			1:30	-	SWAT	1903tMar	o tW Afthe  Te I
+			2:00	-	SAST	1942 Sep.20t2:00
+			2:00	1:00	SAST	1943tMar 21 2:00
+			2:00	-	SAST	1990iMar 21 #oihdepehdence
+			2:00	-	CAT	1994 Apr  3
+			1:00	Namibia	WA%sTt (2Niger
+#oZern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Afthe /Niamty	 0:08:28 -	LMT	1912
+			-1:00	-	WAT	1934 Feb 26
+			 0:00	-	GMT	1960
+			 1:00	-	WATt (2Nigeriano Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Afthe /LagoS	0:13:36 -	LMT	1919 Sepe			1:00	-	WATt (2Reuni
+nno Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Iorian/Reuni
+n	3:41:52 -	LMT	1911 Jun	o taint-Denis
+			4:00	-	RET	o Reuni
+n Te I
+sno t).
+terer Islaads (IgeaiEp9-des) admin3sterer f06-0Reuni
+n are asauollowe.themePauollow,
+g iIATA SSIM) ab
+# tthsm l Aiaken.f06-
+#,IgeaiEp9-des (www.
+# re-m r.gouv.fr/domtom/il .htm, 1997-07-22, in.French;fo n tloonalaavs lab anasAoft1999-08-17erit We.savPanoaiIAT ab
+# tthsirThe Intern hise thes.
+ses Bassas da Ioria - uoinhab: edfo Europa Islaad - inhab: ed f06-01905 ho 1910abyomwo families
+# Gl thoso Iso- inhab: ed uotil at ges tt1958
+# Jua)ade.N
+va - uoinhab: edfo T06-elinm- inhab: ed uotil at ges tt1958
+ (2Rwformno Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Afthe /Kighli	2:00:16 -	LMT	1935 Jun
+			2:00	-	CATfes St Helenano Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern),
+# otic/St_Helena	-0:22:48 -	LMT	1890		o Jamtse wn
+			-0:22:48 -	JMT	1951	o Jamtse wntM if Te I
+			 0:00	-	GMTthemePaoir rTpartsrofAm PaSt Helena terrie ty are similap:es	Tridea)ada Cunha: oroGMT, sayAWhitmao and t PaCIAes	Ascen
+IM): oroGMT, says 
+
+no1995 and t PaCIAes	Gough (scicheifiS statiM),sincet1955;TeealerSawn,nsped previously) fo		oroGMT, says t PaCIAes	Inaccessib a,2Night,
+ghle  iveiIATA SSIM),Ab# tprobab yoGMTfes Sao Tome and Principi
+#oZern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Afthe /Sao_Tome	 0:26:56 -	LMT	1884
+			-0:36:32 -	LMT	1912	o LisbontM if Te I
+			 0:00	-	GMTtes Seneghlfo Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Afthe /Dakar	-1:09:44 -	LMT	1912
+			-1:00	-	WAT	1941 Jun
+			 0:00	-	GMTtes Seychell#sfo Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Iorian/Mahe	3:41:48 -	LMT	1906 Jun	o Vice thh
+			4:00	-	SCT	o Seychell#s Te I
+s 006-03-22):
+#
+# A goo1-05-30e fo Aldabra, Farquhar, and Desrochts, origi Asly depehdenciesrofAm Pes Seychell#s, were iion'ferred r tm PaBinkish Iorian Oc if Terrie ty
+o in.1965 and re urned r tSeychell#s cootrol in.1976.  We.doo't know
+s whe# sp t is affecy#dahhsirThe Internf
+# 2omit t is e danow.ns P ssib yom Paislaads were uoinhab: edrt (2Sierra LeoneforRnua	NAME	FROM	TO	TYPE	IN	ON	AT	SAVE	LETTER/S
+orWhitmao gou s Mar 31m- Aug 31me da1931oM);Ahe wi h ttenger&ernational.nRnua	SL	1935	1942	-	Jun	 1	0:00	0:40	SLSTnRnua	SL	1935	1942	-	Oct	 1	0:00	0	WATtRnua	SL	1957	1962	-	Jun	 1	0:00	1:00	SLSTnRnua	SL	1957	1962	-	Sep	 1	0:00	0	GMTtheZern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Afthe /Freee wn	-0:53:00u-	LMT	1882
+			-0:53:00u-	FMT	1913 Junus 00eee wntM if Te I
+			-1:00	SL	%s	1957
+			 0:00	SL	%st (2So Sliano Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern Afthe /Mogadishu	3:01:28 -	LMT	1893.N
+v
+			3:00	-	EAT	1931
+			2:30	-	BEAT	1957
+			3:00	-	EATfes S
+# h Afthe forRnua	NAME	FROM	TO	TYPE	IN	ON	AT	SAVE	LETTER/S
+Rnua	SA	1942	1943	-	Sep	Sun>=15	2:00	1:00	-
+Rnua	SA	1943	1944	-	Mar	Sun>=15	2:00	0	-
+#oZern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern Afthe /Joh nn#sburg 1:52:00u-	LMT	1892 Feb 8
+			1:30	-	SAST	1903tMar
+			2:00	SA	SASTfo MarIM) and Prince Edwmat Isfo scicheifiS statiM),sincet1947r tiveiIATA SSIM)fes Sudan
+ses 006-0<a href="http://www.suoanews.net/sn13jane.html" theSudan News AgencyA goo0-o1-13)fo </a>,ealsvetas StPditat
+ichael Dn Beukelaer-D ssche viatSteffennd Rrsen fo Clockrihat  be movsdaahle (e da60nminutes at  
+vsp t seSudan asAoftno
+nno Saturday....  T is was announc#daT ursday tatCareiaker State Min3stsp fices Manpowsp Abdul-Rahmao Nur-Eddin.th
+s Rnua	NAME	FROM	TO	TYPE	IN	ON	AT	SAVE	LETTER/S
+Rnua	Sudan	1970	only	-	May	 1	0:00	1:00	S
+Rnua	Sudan	1970	1985	-	Oct	15	0:00	0	-
+Rnua	Sudan	1971	only	-	Apr	30	0:00	1:00	S
+Rnua	Sudan	1972	1985	-	Apr	# StSun	0:00	1:00	S
+#oZern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Afthe /Khartoum	2:10:08 -	LMT	1931
+			2:00	Sudan	CA%sT	goo0
+Jan 15 12:00
+			3:00	-	EATfes S
+# h Sudan
+Zern	Afthe /Juba	2:06:24 -	LMT	1931
+			2:00	Sudan	CA%sT	goo0
+Jan 15 12:00
+			3:00	-	EATfes SwazilandforZern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Afthe /Mbabane	2:04:24 -	LMT	1903tMar
+			2:00	-	SASTfes Tanz niano Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern Afthe /Dar_es_Salaa-0g:37:08 -	LMT	1931
+			3:00	-	EAT	1948
+			2:45	-	BEAUT	1961
+			3:00	-	EATfes Tog
+no Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Afthe /Lome	0:04:52 -	LMT	1893
+			0:00	-	GMTtes Tuoisianes 006-0Ghat im LawA goo5vi4-30e fo Myhcorrespoorsnt, Rise  Nykane),Ahas alertPdim# ho anoir rTadoptiM)aofADSTnfort is te IeFroTuoisia.  Accordi
+g ho Yahoo 00anc  News
+or<http://fr.news.yahoorcom/050426/5/4dumk.html>, in.a se ty attrib# ed r tAP
+s and detPdigoo5vi4-26, "TuoisiaAhas dncid#daio advsnceoits offiSchlohe Iebyes orn hour, start,
+g M),Suormy, May 1.  Henceficth,tTuoisianahe Iehat  bees UTC+2ninstle (ofAUTC+1.  T Pac.org swat  iakenpl cn at 23:00 UTC nextno Saturday."  (Myhiion'lSSIM))
+ses 006-0Oscarnvsn Vlijmenn goo5-05-02e fo LaPresse,am PafirSt.nat
+# Assdai yonewspaper ...fo <http://www.lapreSse.tn/arcr,u s/arcr,u s280405/actualiSes/lheur .html>
+o ...aDSTef daLa05: or:,Suo May 1 0hesnformatihe I, off:0FritSept. 30,
+o 1hesnformatihe I.
+ses 006-0AtefsLoukiln good sour8e fo T Pad.ylighorsavi
+g he I hat  be m Pasa I eachayear fo Begino,
+g      :Am Pa# St.Suormy oftMarcr at 02:00fo Ead,
+g         :Am Pa# St.Suormy oftOctobsp at 03:00 ...fo http://www.hap.iIAT.tn/en/iorsx.php?optiM)=com_cootche&task=view&id=1188&Itemid=50nes 006-0Steffennd Rrsenn goo9-03-16e fo Accordi
+g ho al(6th enews e hists, TuoisiaAhat  noi.observ aDSTeheansyear.fo (Arabic)fo <a href="http://www.elbashayal.com/?pagd=viewn&nid=42546" thehttp://www.elbashayal.com/?pagd=viewn&nid=42546
+s </a the<a href="http://www.babnetrnet/kiwide ail-15295.asp" thehttp://www.babnetrnet/kiwide ail-15295.asp
+s </a th
+o We.savPaalsveaonfirmif(heanswi h e seUS embassyeFroTuoisia.
+o We.savPaaasoap-up ab
+# tthl Aonam Pafollow,
+g pagd:fo <a href="http://www.he Iforrmte.com/news/he I/tuoisia-csncel -dst-2oo9.html" thehttp://www.he Iforrmte.com/news/he I/tuoisia-csncel -dst-2oo9.html
+s </a tes 006-0Alexforsp Krou nyshevm Lao9-03-17e fo Here maia [0nkaho Tuois Afthque Presse News Agencyfo
+o Staormatihe Ieivebinkept t Pawholeryeartloon (hap.iIAT.tne fo
+he(in.Eng03sr)fo <a href="http://www.hap.iIAT.tn/en/iorsx.php?optiM)=com_cootche&task=view&id=26813&Itemid=157" thehttp://www.hap.iIAT.tn/en/iorsx.php?optiM)=com_cootche&task=view&id=26813&Itemid=157
+s </a th
+o (in.Arabic)fo <a href="http://www.hap.iIAT.tn/ar/iorsx.php?optiM)=com_cootche&task=view&id=61240&Itemid=1" thehttp://www.hap.iIAT.tn/ar/iorsx.php?optiM)=com_cootche&task=view&id=61240&Itemid=1
+s </a tes 006-0A
+# This data is bh(r Dav-3-18e fo T PaTuois Afthque Presse News Agency noiice cootaids iran  "T irimeasure maidueiho m Pafact
+ort atoir TfaSt,
+g monthnofAramadao coincidenswi h e seperiod aonceroPditatsumm rThe I.themePree de, m Pastaormatihe Iehat  be kept unc.org d t Pawholeryeartloonr"it So e degoi
+g DSTeseemforvebinao exceptIM),(albeit.M)n e atn;ay beataseat#daio t Pa future)rt (2006-0Alexforsp Krou nyshevm La10-03-27e fo Accordi
+g ho aome news tas Ste
+Tuois aonfirmif(noi.ho 
+
+# DSTein.La10th
+o (iion'lSSIM)) fo "T PaTuoisiao governmcheAhas dncid#daio abandoroDST, which was scheduled orit Suormy...fo Tuoisiao a# hoinkies hadTeusppadif(t PaDSTef dam PafirSt.he Ie# St.year alsv
+# coincidedswi h e semonthnofARamadaor.."t#fo (in.Arabic)fo <a href="http://www.moheetrcom/show_news.aspx?nid=358861&pg=1" thehttp://www.moheetrcom/show_news.aspx?nid=358861&pg=1fo <a href="http://www.almarsnahnews.com/newss/news.php?c=118&id=38036" thehttp://www.almarsnahnews.com/newss/news.php?c=118&id=38036
+heices <a href="http://www.worldhe Itern.com/dst_news/dst_news_tuois02.html" thehttp://www.worldhe Itern.com/dst_news/dst_news_tuois02.htmlt (2Rnua	NAME	FROM	TO	TYPE	IN	ON	AT	SAVE	LETTER/S
+Rnua	Tuoisia	1939	only	-	Apr	15	23:00s	1:00	S
+Rnua	Tuoisia	1939	only	-	Nov	18	23:00s	0	-
+Rnua	Tuoisia	1940	only	-	Feb	25	23:00s	1:00	S
+Rnua	Tuoisia	1941	only	-	Oct	 6	 0:00	0	-
+Rnua	Tuoisia	1942	only	-	Mar	 9	 0:00	1:00	S
+Rnua	Tuoisia	1942	only	-	Nov	 2	 3:00	0	-
+Rnua	Tuoisia	1943	only	-	Mar	29	 2:00	1:00	S
+Rnua	Tuoisia	1943	only	-	Apr	17	 2:00	0	-
+Rnua	Tuoisia	1943	only	-	Apr	25	 2:00	1:00	S
+Rnua	Tuoisia	1943	only	-	Oct	 4	 2:00	0	-
+Rnua	Tuoisia	1944	1945	-	Apr	Mon>=1	 2:00	1:00	S
+Rnua	Tuoisia	1944	only	-	Oct	 8	 0:00	0	-
+Rnua	Tuoisia	1945	only	-	Sep	16	 0:00	0	-
+Rnua	Tuoisia	1977	only	-	Apr	30	 0:00s	1:00	S
+Rnua	Tuoisia	1977	only	-	Sep	24	 0:00s	0	-
+Rnua	Tuoisia	1978	only	-	May	 1	 0:00s	1:00	S
+Rnua	Tuoisia	1978	only	-	Oct	 1	 0:00s	0	-
+Rnua	Tuoisia	1988	only	-	Jun	 1	 0:00s	1:00	S
+Rnua	Tuoisia	1988	1990	-	Sep	# StSun	 0:00s	0	-
+Rnua	Tuoisia	1989	only	-	Mar	26	 0:00s	1:00	S
+Rnua	Tuoisia	1990	only	-	May	 1	 0:00s	1:00	S
+Rnua	Tuoisia	La05	only	-	May	 1	 0:00s	1:00	S
+Rnua	Tuoisia	La05	only	-	Sep	30	 1:00s	0	-
+Rnua	Tuoisia	good	goo8	-	Mar	# StSun	 2:00s	1:00	S
+Rnua	Tuoisia	La0d	goo8	-	Oct	# StSun	 2:00s	0	-
+
+o ttenger&ernationalagou  0:09:20nf daParis M if Te I;Ahe wi h Howse's
+orm de. inci
+# 0:09:21.no ttenger&ernationalasayAiret1911tswi n ewasoo),
+ar 9;Ahe wi h Howse'stMar 11.no Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Afthe /Tuois	0:40:44 -	LMT	1881 May 12
+			0:09:21	-	PMT	1911 Mar 11    #aParis M if Te Ie			1:00	Tuoisia	CE%sTt (2Ugformno Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Afthe /Kampala	2:09:40 -	LMT	1928 Jul
+			3:00	-	EAT	1930
+			2:30	-	BEAT	1948
+			2:45	-	BEAUT	1957
+			3:00	-	EATfes Zambiano Zern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Afthe /Lusaka	1:53:08 -	LMT	1903tMar
+			2:00	-	CATfes Zimbabwi
+#oZern	NAME		GMTOFF	RULES	FORMAT	[UNTIL]
+Zern	Afthe /Harare	2:04:12 -	LMT	1903tMar
+			2:00	-	CATf
